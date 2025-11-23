@@ -1,0 +1,25 @@
+# Core data processing
+numpy
+pandas
+
+# Data visualization
+matplotlib
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+pmdarima
+
+# Financial data source
+yfinance
+
+# PDF report generation
+reportlab
+
+# GUI (for future desktop version)
+PyQt5
+
+# Utility
+python-dateutil
+tqdm
