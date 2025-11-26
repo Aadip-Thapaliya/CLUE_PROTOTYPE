@@ -209,10 +209,10 @@ Project Lead: Aadip Thapaliya
 Role: Machine Learning Developer & Data Scientist
 
 Team Member: Kristian Boroz
-Role: Systems Development & Scientific Modeling
+Role: AI Engineer & Scientific Modeling
 
 For collaboration and inquiries, please contact through GitHub or official project channels.
 
 ---
 
-End of Documentation
+
