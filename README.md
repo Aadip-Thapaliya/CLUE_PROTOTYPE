@@ -1,5 +1,5 @@
 
-# CLUE – Intelligent Forecasting for Everyone Prototype
+# CLUE – Contextual Likelihoods For User Centric Evaluation - Intelligent Forecasting for Everyone Prototype
 
 CLUE Prototype is an open-source forecasting application designed to transform raw numerical data into clear predictions and actionable insights. It allows users to load Yahoo Finance data and local CSV files, automatically clean and preprocess them, perform intelligent analysis, and generate reliable forecasts with visual explanations — all while keeping data fully private through local processing.
 
