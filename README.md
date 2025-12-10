@@ -129,7 +129,7 @@ All processes run locally, ensuring data security and privacy.
 ### Installation Steps
 
 1. Clone the repository
-   git clone [https://github.com/Aadip-Thapaliya/CLUE.git](https://github.com/Aadip-Thapaliya/CLUE.git)
+   git clone 
 
 2. Navigate to the project directory
    cd CLUE
