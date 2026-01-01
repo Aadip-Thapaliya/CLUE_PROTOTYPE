@@ -91,7 +91,7 @@ CLUE currently supports:
 
 ---
 
-## 4. System Architecture
+## 4.System Architecture
 
 The CLUE system follows a modular pipeline:
 
@@ -207,11 +207,13 @@ This project is intended to be released under the MIT License, allowing free use
 
 Project Lead: Aadip Thapaliya
 Role: Machine Learning Developer & Data Scientist
+Email: aadipthapaliya@gmail.com
 
 Team Member: Kristian Boroz
 Role: AI Engineer & Scientific Modeling
 
 For collaboration and inquiries, please contact through GitHub or official project channels.
+
 
 ---
 
