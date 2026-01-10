@@ -205,11 +205,11 @@ This project is intended to be released under the MIT License, allowing free use
 
 ## 13. Contact
 
-#Aadip Thapaliya
+1. Aadip Thapaliya
 Role: Machine Learning Developer & Data Scientist
 Email: aadipthapaliya@gmail.com
 
-#Kristian Boroz
+2. Kristian Boroz
 Role: AI Engineer & Scientific Modeling
 Email: kristian@opencampus.sh
 
