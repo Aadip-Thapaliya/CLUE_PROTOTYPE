@@ -205,12 +205,13 @@ This project is intended to be released under the MIT License, allowing free use
 
 ## 13. Contact
 
-Project Lead: Aadip Thapaliya
+#Aadip Thapaliya
 Role: Machine Learning Developer & Data Scientist
 Email: aadipthapaliya@gmail.com
 
-Team Member: Kristian Boroz
+#Kristian Boroz
 Role: AI Engineer & Scientific Modeling
+Email: kristian@opencampus.sh
 
 For collaboration and inquiries, please contact through GitHub or official project channels.
 
