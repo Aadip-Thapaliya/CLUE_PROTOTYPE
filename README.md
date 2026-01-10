@@ -27,9 +27,6 @@ Deliver professional automated reports
 - [@kboroz](https://www.github.com/kboroz)
 
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
 # CLUE Project Documentation
 
